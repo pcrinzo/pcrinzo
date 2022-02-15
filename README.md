@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pcrinzo
-- 👀 I’m interested in programming, gamming and read books.
+- 👀 I’m interested in programming, gamming and reading books.
 - 🌱 I’m currently learning more about Data Science.
 - 📫 How to reach me:  LinkedIn:  https://www.linkedin.com/in/pcrinzo/
                         Medium:   https://medium.com/@patrickcuervorinzo
